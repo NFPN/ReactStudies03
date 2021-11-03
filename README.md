@@ -1,4 +1,4 @@
-# ReactStudies - 02
+# ReactStudies - 03
 Project done following a React guide course.
 
  - Content (all react studies) 
